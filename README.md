@@ -34,7 +34,7 @@ Below is an example set of generated MNIST digits with a block-pixel transformat
 
 ![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/results_for_git.PNG "Click me to see the graphed results ")
 
-
+ 
 
 
 

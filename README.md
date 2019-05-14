@@ -2,7 +2,7 @@
 
 As part of the International Conference on Learning Representations reproducibility challenge we attempted to reproduce some of the experiments in [AmbientGAN: Generative models from lossy measurements](https://openreview.net/pdf?id=Hy7fDog0b) ; a twist on the traditional baseline generative adversarial network where it is assumed that the underlying state vector is not directly observed-- instead the model must learn from images with various noise transformations applied.
 
-In this repo we reproduce the work in the Ambient paper for block pixel using the MNIST. To do so, we follow the paper in creating baseline GAN models, one that ignores that any transformation has taken place, and another that makes use of inverse transformations, shown below. 
+In this repo we reproduce the work in the Ambient paper for block pixel using the MNIST. To do so, we follow the paper in creating two baseline GAN models -- one that ignores that any transformation has taken place, and another that makes use of inverse transformations as well as the Ambient network. Below is a schematic of the three architectures. 
 
 
 ![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/model_flow.png "Logo Title Text 1")

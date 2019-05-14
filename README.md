@@ -32,8 +32,10 @@ Our reproduced results confirm that the ambient approach training on noisy-image
 
 Below is an example set of generated MNIST digits with a block-pixel transformation p = 0.9 trained with Ambient (left), Baseline with Bi-harmonic in-painting (center) and Ignore (right)
 
+<p align="center">
+  <img width="600" height="200" src="https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/examples.PNG">
+</p>
 
-![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/examples.PNG "Click me to see the graphed results ")
 
 
 

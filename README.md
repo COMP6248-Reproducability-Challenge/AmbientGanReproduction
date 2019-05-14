@@ -6,3 +6,22 @@ In this Git we reproduce the work in the Ambient paper for block pixel using the
 
 
 ![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/model_flow.png "Logo Title Text 1")
+
+
+#Files 
+
+## BASELINE_GAN.ipynb 
+
+Contains the code for Baseline GAN Experiments
+
+## IgnoreGan.ipynb
+
+Contains the code for ignore model Experiments 
+
+## AmbientGan.ipynb
+
+Contains the code for Ambient model Experiments 
+
+# Results 
+
+![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/model_comparison.pdf "Click me to see the graphed results ")

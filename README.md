@@ -26,6 +26,11 @@ Contains the code for Ambient model Experiments
 
 Our reproduced results confirm that the ambient approach training on noisy-images indeed gives improvement over GAN methods that do not account for the noise as well as baseline GANs trained after de-noising approaches.
 
-![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/model_comparison.pdf "Click me to see the graphed results ")
+![Click me to see the graphed results](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/model_comparison.pdf "Click me to see the graphed results ")
+
+![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/results_for_git.PNG "Click me to see the graphed results ")
+
+
+
 
 

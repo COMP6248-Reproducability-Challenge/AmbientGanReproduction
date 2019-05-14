@@ -5,4 +5,4 @@ As part of the International Conference on Learning Representations reproducibil
 In this Git we reproduce the work in the Ambient paper for block pixel using the MNIST. To do so, we follow the paper in creating baseline GAN models. One that ignores that any transformation has taken place, and another that makes use of inverse transformations, shown below. 
 
 
-![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/model_comparison.png "Logo Title Text 1")
+![alt text](https://github.com/COMP6248-Reproducability-Challenge/AmbientGanReproduction/blob/master/model_flow.png "Logo Title Text 1")
